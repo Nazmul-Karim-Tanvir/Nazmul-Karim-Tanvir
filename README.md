@@ -5,7 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nazmul-karim-tanvir&label=Profile%20views&color=0e75b6&style=flat" alt="nazmul-karim-tanvir" /> </p>
 
-- 📫 How to reach me **nazmul.karim.tanvir@g.bracu.ac.bd, nktanvir9898@gmail.com**
+- 📫 How to reach me **nazmul.karim.tanvir@g.bracu.ac.bd** 
+-                     **nktanvir9898@gmail.com**
 
 - ✌Moto  **Let the problem find it's solution with a good smile **
 
