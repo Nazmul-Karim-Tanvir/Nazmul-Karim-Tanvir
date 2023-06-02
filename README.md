@@ -7,12 +7,12 @@
 
 - 📫 How to reach me **nazmul.karim.tanvir@g.bracu.ac.bd, nktanvir9898@gmail.com**
 
-- ⚡ Fun fact **Let the problem find it's solution with good smile ✌️**
+- ✌Moto  **Let the problem find it's solution with a good smile **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nazmul-karim-tanvir-795563159/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nazmul karim tanvir" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/nk vlogs bd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nk vlogs bd" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/c/nk vlogs bd](https://www.youtube.com/channel/UCRvLlXr3hn8dpG7ZRXkE7Tw)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nk vlogs bd" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
