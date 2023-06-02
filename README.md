@@ -13,8 +13,8 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/nazmul-karim-tanvir-795563159/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nazmul karim tanvir" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCRvLlXr3hn8dpG7ZRXkE7Tw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nk vlogs bd" height="30" width="40" /></a>
+<a href="https://www.facebook.com/NKTanvirblogs" target= "blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nk vlogs bd" height="30" width="40" /></a>  
 
-<a href="https://www.facebook.com/NKTanvirblogs" target= "blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nk vlogs bd" height="30" width="40" /></a>  
 </p>
 
 
