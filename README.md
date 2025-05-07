@@ -7,19 +7,21 @@
 
 - 📫 How to reach me **nazmulkarimtanvir@gmail.com, nazmul.karim.tanvir@g.bracu.ac.bd , nktanvir9898@gmail.com**
 
-- ✌Moto  **Let the problem find it's solution with a good smile **
+- ✌ **Let the problem find it's solution with a good smile **
 
 - <b>Project link :</b> https://github.com/Nazmul-Karim-Tanvir?tab=repositories
+<hr>
 
-
-<h3 align="left">Connect with me:</h3>
+### Connect With Me
 <p align="left">
 <a href="https://www.linkedin.com/in/nazmul-karim-tanvir-795563159/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nazmul karim tanvir" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCRvLlXr3hn8dpG7ZRXkE7Tw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nk vlogs bd" height="30" width="40" /></a>
 <a href="https://www.facebook.com/NKTanvirblogs" target= "blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nk vlogs bd" height="30" width="40" /></a>  
-
 </p>
 
+### 🎬 My Latest YouTube Video
+
+[![NK Vlogs BD - Latest Video](https://img.youtube.com/vi/ZBoeKLBL-9g/0.jpg)](https://youtu.be/ZBoeKLBL-9g?si=8sVbYwRxdnyAvU_6)
 
 <hr>
 <h3 align="left">Programming Languages and Tools :</h3>
