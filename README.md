@@ -41,6 +41,15 @@
 <a title="Python" href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 
 <h4>Version Control:</h4>
-<a title="GIT" href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a title="GIT" href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</a>
+<a title="GitHub" href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/>
+</a>
+<a title="Bitbucket" href="https://bitbucket.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="Bitbucket" width="40" height="40"/>
+</a>
+
 <hr>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nazmul-karim-tanvir&show_icons=true&locale=en&layout=compact" alt="nazmul-karim-tanvir" /></p>
