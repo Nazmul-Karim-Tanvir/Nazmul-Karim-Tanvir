@@ -172,19 +172,6 @@ Worked with infrastructure and application monitoring technologies.
 
 **Tech:** Zabbix · Grafana · Prometheus
 
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nazmul-karim-tanvir&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=nazmul-karim-tanvir&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" />
-
-</div>
-
----
 
 ## Coding Activity
 
@@ -212,33 +199,7 @@ Worked with infrastructure and application monitoring technologies.
 
 </div>
 
----
 
-## Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Nazmul-Karim-Tanvir/Nazmul-Karim-Tanvir/output/github-contribution-grid-snake-dark.svg"
-  />
-
-<source
- media="(prefers-color-scheme: light)"
- srcset="https://raw.githubusercontent.com/Nazmul-Karim-Tanvir/Nazmul-Karim-Tanvir/output/github-contribution-grid-snake.svg"
-/>
-
-<img
- src="https://raw.githubusercontent.com/Nazmul-Karim-Tanvir/Nazmul-Karim-Tanvir/output/github-contribution-grid-snake.svg"
- alt="GitHub Contribution Snake"
-/>
-
-</picture>
-
-</div>
-
----
 
 ## Education
 
